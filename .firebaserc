@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-82fc4": {
+      "hosting": {
+        "da-keep": [
+          "danotes-82fc4"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-82fc4"
+  }
+}
